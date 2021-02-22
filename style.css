@@ -2,4 +2,14 @@ body {
   background color: #0000EE;
   color: #FFFFFF;
   font-family: monospace;
+  font-size: 16pt;
+  line-height: 1.3em;
+}
+
+a {
+  color: #ff9100;
+}
+
+a:hover {
+  color: #ff0040;
 }
