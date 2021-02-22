@@ -13,10 +13,10 @@ h2{
   line-height: 1.3em;
 }
 
-a {
+a:hover {
   color: #FF9100;
 }
 
-a:hover {
+a {
   color: #FF0040;
 }
