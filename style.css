@@ -4,12 +4,20 @@ html {
   font-family: monospace;
   font-size: 16pt;
   line-height: 1.3em;
+  font-weight: normal;
+}
+
+h2{
+  font-family: monospace;
+  font-size: 20pt;
+  color: #FFFFFF;
+  line-height: 1.3em;
 }
 
 a {
-  color: #ff9100;
+  color: #FF9100;
 }
 
 a:hover {
-  color: #ff0040;
+  color: #FF0040;
 }
