@@ -16,11 +16,17 @@ a:clicked {
 }
 
 h1 {
-  font-size: 16pt;
+  font-size: 20pt;
+  font-weight: bold;
+  color: #FFC400;
 }
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+li {
+  font-weight: normal;
 }
