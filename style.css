@@ -18,3 +18,9 @@ a:clicked {
 h1 {
   font-size: 16pt;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
