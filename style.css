@@ -3,15 +3,11 @@ body {
   background-color: #000000;
 }
 
-a:hover {
-  color: #0000EE
-}
-
 a {
   color: #FCE303;
 }
 
-a:clicked {
+a:hover {
   color: #05A100;
 }
 
