@@ -3,3 +3,11 @@ html {
   background-color: #000000;
   color: #FFFFFF;
 }
+
+a {
+  color: #0000EE
+}
+
+a:hover {
+  color: #FCE303;
+}
