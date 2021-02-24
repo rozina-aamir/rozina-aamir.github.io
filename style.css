@@ -16,6 +16,10 @@ a:clicked {
 }
 
 h1 {
+  font-size: 24pt;
+}
+
+h2 {
   font-size: 20pt;
   font-weight: bold;
   color: #FFC400;
@@ -29,4 +33,5 @@ ul {
 
 li {
   font-weight: normal;
+  font-size: 16pt;
 }
