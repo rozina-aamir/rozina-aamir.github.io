@@ -11,3 +11,7 @@ a {
 a:hover {
   color: #FCE303;
 }
+
+a:clicked {
+  color: #05A100;
+}
