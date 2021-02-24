@@ -14,3 +14,7 @@ a:hover {
 a:clicked {
   color: #05A100;
 }
+
+h1 {
+  font-size: 16pt;
+}
