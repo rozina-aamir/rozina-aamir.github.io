@@ -3,11 +3,11 @@ body {
   background-color: #000000;
 }
 
-a {
+a:hover {
   color: #0000EE
 }
 
-a:hover {
+a {
   color: #FCE303;
 }
 
@@ -34,4 +34,5 @@ ul {
 li {
   font-weight: normal;
   font-size: 16pt;
+  color: #FFFFFF;
 }
