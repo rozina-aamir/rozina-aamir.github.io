@@ -1,1 +1,1 @@
-I'm building my portfolio site from scratch since this will be the thing that will get me out of tutorial hell and will encourage me to create my own projects in the future
+This is my lovingly handcrafted personal website/portfolio which pays some sort of homage to the Web 1.0 era (late 1990's/early 2000's)
