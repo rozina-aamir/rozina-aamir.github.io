@@ -6,3 +6,7 @@ h1 {
     font-family: 'IBM Plex Mono', monospace;
     font-weight: bold;
 }
+
+.homepage-text {
+    max-width: 300px;
+}
