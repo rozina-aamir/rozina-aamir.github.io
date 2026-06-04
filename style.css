@@ -29,5 +29,5 @@ h2 {
 .project-img {
     padding-top: 10px;
     max-width: 450px;
-    overflow: hidden;
+    object-fit: contain;
 }
