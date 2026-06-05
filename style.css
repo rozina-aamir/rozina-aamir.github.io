@@ -23,6 +23,7 @@ h2 {
 .cards {
     display: flex;
     flex-direction: row;
+    flex-basis: 900px;
 }
 
 .project-card {
