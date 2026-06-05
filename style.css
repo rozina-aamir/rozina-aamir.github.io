@@ -34,7 +34,7 @@ h2 {
 
 .project-img img {
     display: flex;
-    flex-basis: 450px;
+    max-width: 450px;
     padding-top: 10px;
     object-fit: cover;
 }
