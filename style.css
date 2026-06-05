@@ -20,6 +20,11 @@ h2 {
     font-size: 28px;
 }
 
+.cards {
+    display: flex;
+    flex-direction: row;
+}
+
 .project-card {
     border: 5px solid #000000;
     margin: 10px;
