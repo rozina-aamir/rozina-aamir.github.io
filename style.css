@@ -32,7 +32,7 @@ h2 {
     max-width: 450px;
 }
 
-.project-img img {
+.project-img {
     display: flex;
     max-width: 450px;
     padding-top: 10px;
