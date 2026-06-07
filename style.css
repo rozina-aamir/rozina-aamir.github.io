@@ -1,5 +1,6 @@
 body {
     background-color: #39FF14;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 h1,
@@ -11,10 +12,6 @@ h2 {
 h2 {
     margin: 0;
     font-size: 32px;
-}
-
-p {
-    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .homepage-text {
