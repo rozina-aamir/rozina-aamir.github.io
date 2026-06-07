@@ -10,7 +10,7 @@ nav {
     padding: 10px;
 }
 
-.nav-link {
+.nav-link a {
     display: flex;
     flex-direction: row;
     font-size: 32px;
