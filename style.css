@@ -7,8 +7,11 @@ nav {
     display: flex;
     flex-direction: row;
     gap: 16px;
-    font-size: 32px;
     padding: 10px;
+}
+
+.nav-link {
+    font-size: 32px;
 }
 
 h1,
