@@ -13,7 +13,7 @@ nav {
 .nav-link a {
     display: flex;
     flex-direction: row;
-    font-size: 32px;
+    font-size: 24px;
 }
 
 h1,
