@@ -11,6 +11,8 @@ nav {
 }
 
 .nav-link {
+    display: flex;
+    flex-direction: row;
     font-size: 32px;
 }
 
