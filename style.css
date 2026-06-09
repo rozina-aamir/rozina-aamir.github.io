@@ -43,6 +43,11 @@ a {
     font-weight: 900;
 }
 
+li {
+    list-style: square;
+    font-size: 20px;
+}
+
 .homepage-text {
     min-width: 500px;
     max-width: 1000px;
